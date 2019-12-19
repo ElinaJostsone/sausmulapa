@@ -1,0 +1,71 @@
+.titulbilde{
+	
+	position: relative;
+	text-align: center;
+
+}
+
+
+
+.menu{
+	height: 37px;
+	text-align: center;
+
+
+
+
+}
+.menu>ul>li{
+	display: block;
+	padding: 10px 20px 10px 20px;
+	background-color: rgb(102,0,0); 
+	position: relative;
+	top: 10px;
+}
+.menu>ul>li>a{
+	text-decoration: none;
+	color: white;
+}
+
+.conjuringfilmas{
+
+	position: relative;
+	text-align: center;
+	top: 130px;
+
+}
+.nun{
+
+	position: relative;
+	text-align: center;
+	top: 190px;
+
+}
+
+.annabelle{
+	position: relative;
+	text-align: center;
+	top: 230px;
+
+
+}
+.curse{
+	position: relative;
+	text-align: center;
+	top: 270px;
+
+}
+
+.treileri{
+	position: relative;
+	text-align: center;
+	top: 150px;
+	padding: 20px 20px 20px 20px;
+
+}
+.tabula{
+
+	position: relative;
+	text-align: center;
+	top: 150px;
+}
